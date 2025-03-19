@@ -807,22 +807,22 @@
    (tier1_1
       ((song1
             (songs
-               (band 1))
+               myownworstenemy)
             (display_song TRUE)
             (money_per_star 5))
          (song2
             (songs
-               (band 2))
+               eyeofthetiger)
             (display_song TRUE)
             (money_per_star 5))
          (song7
             (songs
-               (band 7))
+               rebelgirl)
             (display_song TRUE)
             (money_per_star 5))
          (song10
             (songs
-               (band 10))
+               iwaswrong)
             (display_song TRUE)
             (money_per_star 5))
          (random_easy
@@ -830,21 +830,21 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song6
             (songs
-               (band 6))
+               sowhatchawant)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song11
             (songs
-               (band 11))
+               nineintheafternoon)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song12
             (songs
-               (band 12))
+               coolforcats)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (unlock_van
-            (songs RANDOM_EASY RANDOM_EASY today)
+            (songs RANDOM_EASY RANDOM_EASY maninthebox)
             (money_per_star 25)
             (award_item tour_vehicle_van)
             PREREQ_UNLOCK_VAN
@@ -858,17 +858,17 @@
    (tier1_2
       ((song3
             (songs
-               (band 3))
+               hungrylikethewolf)
             (display_song TRUE)
             (money_per_star 5))
          (song8
             (songs
-               (band 8))
+               maninthebox)
             (display_song TRUE)
             (money_per_star 5))
          (song13
             (songs
-               (band 13))
+               hellothere)
             (display_song TRUE)
             (money_per_star 5))
          (random_easy
@@ -876,21 +876,21 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song17
             (songs
-               (band 17))
+               wegotthebeat)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song19
             (songs
-               (band 19))
+               newkidinschool)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song22
             (songs
-               (band 22))
+               pumpitup)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (unlock_bus
-            (songs RANDOM_EASY RANDOM_EASY livinonaprayer)
+            (songs RANDOM_EASY RANDOM_EASY thatswhatyouget)
             (money_per_star 25)
             (award_item tour_vehicle_bus)
             PREREQ_UNLOCK_BUS
@@ -904,17 +904,17 @@
    (tier1_3
       ((song5
             (songs
-               (band 5))
+               pretendweredead)
             (display_song TRUE)
             (money_per_star 5))
          (song9
             (songs
-               (band 9))
+               spiritinthesky)
             (display_song TRUE)
             (money_per_star 5))
          (song15
             (songs
-               (band 15))
+               thatswhatyouget)
             (display_song TRUE)
             (money_per_star 5))
          (random_easy
@@ -922,19 +922,19 @@
             PREREQ_GENERIC_BIG_CLUB))
       ((song18
             (songs
-               (band 18))
+               epro)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song20
             (songs
-               (band 20))
+               deluxe)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song23
             (songs
-               (band 23))
+               onestepcloser)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
@@ -947,19 +947,19 @@
    (tier1_4
       ((song4
             (songs
-               (band 4))
+               floaton)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             (money_per_star 5))
          (song14
             (songs
-               (band 14))
+               drainyou)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             (money_per_star 5))
          (song16
             (songs
-               (band 16))
+               today)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             (money_per_star 5))
@@ -968,19 +968,19 @@
             PREREQ_GENERIC_BIG_CLUB))
       ((song21
             (songs
-               (band 21))
+               shootingstar)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song24
             (songs
-               (band 24))
+               conventionallover)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song25
             (songs
-               (band 25))
+               giveitaway)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
@@ -993,17 +993,17 @@
    (tier2_1
       ((song26
             (songs
-               (band 26))
+               lazyeye)
             (display_song TRUE)
             (money_per_star 5))
          (song28
             (songs
-               (band 28))
+               goyourownway)
             (display_song TRUE)
             (money_per_star 5))
          (song34
             (songs
-               (band 34))
+               lump)
             (display_song TRUE)
             (money_per_star 5))
          (random_medium
@@ -1011,12 +1011,12 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song38
             (songs
-               (band 38))
+               roundandround)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song40
             (songs
-               (band 40))
+               pda)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (random_medium
@@ -1028,17 +1028,17 @@
    (tier2_2
       ((song27
             (songs
-               (band 27))
+               feelthepain)
             (display_song TRUE)
             (money_per_star 5))
          (song29
             (songs
-               (band 29))
+               americanwoman)
             (display_song TRUE)
             (money_per_star 5))
          (song35
             (songs
-               (band 35))
+               psychokiller)
             (display_song TRUE)
             (money_per_star 5))
          (random_medium
@@ -1046,16 +1046,16 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song39
             (songs
-               (band 39))
+               livinonaprayer)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song41
             (songs
-               (band 41))
+               welcometothe)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (unlock_roadies
-            (songs RANDOM_MEDIUM RANDOM_MEDIUM alive)
+            (songs RANDOM_MEDIUM RANDOM_MEDIUM letthereberock)
             (fame
                (town 12)
                (world 80))
@@ -1071,21 +1071,21 @@
    (tier2_3
       ((song30
             (songs
-               (band 30))
+               kidsinamerica)
             BWT_BUZZ_EASYBLOCK
             (item tour_staff1)
             (display_song TRUE)
             (money_per_star 5))
          (song32
             (songs
-               (band 32))
+               wheredyougo)
             BWT_BUZZ_EASYBLOCK
             (item tour_staff1)
             (display_song TRUE)
             (money_per_star 5))
          (song36
             (songs
-               (band 36))
+               letthereberock)
             BWT_BUZZ_EASYBLOCK
             (item tour_staff1)
             (display_song TRUE)
@@ -1095,13 +1095,13 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song42
             (songs
-               (band 42))
+               ajaggedgorgeouswinter)
             (item tour_staff1)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song44
             (songs
-               (band 44))
+               rocknme)
             (item tour_staff1)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
@@ -1109,7 +1109,7 @@
             (songs RANDOM_MEDIUM RANDOM_MEDIUM RANDOM_MEDIUM)
             PREREQ_GENERIC_BIG_CLUB))
       ((unlock_jet
-            (songs RANDOM_MEDIUM RANDOM_MEDIUM pinballwizard)
+            (songs RANDOM_MEDIUM RANDOM_MEDIUM alive)
             BWT_BUZZ_EASYBLOCK
             (money_per_star 120)
             (item tour_staff1)
@@ -1122,19 +1122,19 @@
    (tier2_4
       ((song31
             (songs
-               (band 31))
+               onewayoranother)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             (money_per_star 5))
          (song33
             (songs
-               (band 33))
+               comeoutandplay)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             (money_per_star 5))
          (song37
             (songs
-               (band 37))
+               whitewedding)
             BWT_BUZZ_EASYBLOCK
             (display_song TRUE)
             (money_per_star 5))
@@ -1143,13 +1143,13 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song43
             (songs
-               (band 43))
+               themiddle)
             BWT_BUZZ_EASYBLOCKPLUS
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (song45
             (songs
-               (band 45))
+               mountainsong)
             BWT_BUZZ_EASYBLOCKPLUS
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
@@ -1162,12 +1162,12 @@
    (tier3_1
       ((song46
             (songs
-               (band 46))
+               tangledupinblue)
             (display_song TRUE)
             (money_per_star 5))
          (song49
             (songs
-               (band 49))
+               badreputation)
             (display_song TRUE)
             (money_per_star 5))
          (random_hard
@@ -1175,7 +1175,7 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song55
             (songs
-               (band 55))
+               alabamagetaway)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (random_hard
@@ -1195,12 +1195,12 @@
    (tier3_2
       ((song48
             (songs
-               (band 48))
+               girlsnotgrey)
             (display_song TRUE)
             (money_per_star 5))
          (song51
             (songs
-               (band 51))
+               nightlies)
             (display_song TRUE)
             (money_per_star 5))
          (random_hard
@@ -1208,11 +1208,11 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song56
             (songs
-               (band 56))
+               teenageriot)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (unlock_promoter
-            (songs RANDOM_MEDIUM RANDOM_MEDIUM RANDOM_HARD letthereberock)
+            (songs RANDOM_MEDIUM RANDOM_MEDIUM RANDOM_HARD anywayyouwantit)
             BWT_BUZZ_EASYBLOCKMINORPLUS
             PREREQ_UNLOCK_ROADIES
             (award_item tour_staff2)
@@ -1227,13 +1227,13 @@
    (tier3_3
       ((song52
             (songs
-               (band 52))
+               shacklersrevenge)
             (item tour_staff2)
             (display_song TRUE)
             (money_per_star 5))
          (song58
             (songs
-               (band 58))
+               ourtruth)
             (item tour_staff2)
             (display_song TRUE)
             (money_per_star 5))
@@ -1242,7 +1242,7 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song63
             (songs
-               (band 63))
+               robtheprezodent)
             BWT_BUZZ_MEDIUMBLOCK
             (item tour_staff2)
             (display_song TRUE)
@@ -1265,14 +1265,14 @@
    (tier3_4
       ((song61
             (songs
-               (band 61))
+               testify)
             (item tour_staff2)
             BWT_BUZZ_MEDIUMBLOCKPLUS
             (display_song TRUE)
             (money_per_star 5))
          (song66
             (songs
-               (band 66))
+               masterexploder)
             (item tour_staff2)
             (display_song TRUE)
             (money_per_star 5))
@@ -1281,7 +1281,7 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song68
             (songs
-               (band 68))
+               giveitall)
             (item tour_staff2)
             BWT_BUZZ_MEDIUMBLOCKPLUS
             (display_song TRUE)
@@ -1295,13 +1295,13 @@
    (tier3_5
       ((song47
             (songs
-               (band 47))
+               alive)
             (item tour_staff3)
             (display_song TRUE)
             (money_per_star 5))
          (song50
             (songs
-               (band 50))
+               alexchilton)
             (item tour_staff3)
             (display_song TRUE)
             (money_per_star 5))
@@ -1310,7 +1310,7 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song57
             (songs
-               (band 57))
+               pinballwizard)
             (item tour_staff3)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
@@ -1332,13 +1332,13 @@
    (tier3_6
       ((song53
             (songs
-               (band 53))
+               supremegirl)
             (item tour_staff2)
             (display_song TRUE)
             (money_per_star 5))
          (song59
             (songs
-               (band 59))
+               anywayyouwantit)
             (item tour_staff2)
             (display_song TRUE)
             (money_per_star 5))
@@ -1347,12 +1347,12 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song64
             (songs
-               (band 64))
+               carryonwaywardson)
             (item tour_staff2)
             (display_song TRUE)
             PREREQ_GENERIC_BIG_CLUB)
          (unlock_security
-            (songs RANDOM_HARD RANDOM_HARD RANDOM_HARD everlong)
+            (songs RANDOM_HARD RANDOM_HARD RANDOM_HARD carryonwaywardson)
             PREREQ_UNLOCK_TOURMANAGER
             (item tour_staff2)
             (award_item tour_staff3)
@@ -1368,13 +1368,13 @@
    (tier3_7
       ((song54
             (songs
-               (band 54))
+               yououghtaknow)
             (item tour_staff3)
             (display_song TRUE)
             (money_per_star 5))
          (song60
             (songs
-               (band 60))
+               everlong)
             (item tour_staff3)
             (display_song TRUE)
             (money_per_star 5))
@@ -1383,7 +1383,7 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song65
             (songs
-               (band 65))
+               downwiththesickness)
             BWT_BUZZ_MEDIUMBLOCK
             (item tour_staff3)
             (display_song TRUE)
@@ -1392,7 +1392,7 @@
             (songs RANDOM_HARD RANDOM_HARD RANDOM_HARD)
             PREREQ_GENERIC_BIG_CLUB))
       ((unlock_tourmanager
-            (songs RANDOM_HARD RANDOM_HARD RANDOM_HARD RANDOM_HARD carryonwaywardson)
+            (songs RANDOM_HARD RANDOM_HARD RANDOM_HARD RANDOM_HARD aceofspades)
             BWT_BUZZ_MEDIUMBLOCK
             PREREQ_UNLOCK_WORLDPROMOTER
             (award_item tour_staff_worldblock)
@@ -1405,14 +1405,14 @@
    (tier3_8
       ((song62
             (songs
-               (band 62))
+               aqualung)
             (item tour_staff3)
             BWT_BUZZ_MEDIUMBLOCKPLUS
             (display_song TRUE)
             (money_per_star 5))
          (song67
             (songs
-               (band 67))
+               uncontrollableurge)
             (item tour_staff3)
             BWT_BUZZ_MEDIUMBLOCKPLUS
             (display_song TRUE)
@@ -1422,7 +1422,7 @@
             PREREQ_GENERIC_SMALL_CLUB))
       ((song69
             (songs
-               (band 69))
+               bodhisattva)
             (item tour_staff3)
             BWT_BUZZ_MEDIUMBLOCKPLUS
             (display_song TRUE)

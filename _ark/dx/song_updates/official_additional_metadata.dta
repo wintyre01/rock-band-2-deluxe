@@ -202,7 +202,7 @@
 (highwaystar (vocal_tonic_note 7) (song_tonality 0) (author "Harmonix"))
 (igetby (vocal_tonic_note 11) (song_tonality 0) (author "Harmonix"))
 (imsosick (vocal_tonic_note 2) (song_tonality 1) (author "Harmonix"))
-(inbloom (vocal_tonic_note 8) (song_tonality 0) (author "Harmonix"))
+(inbloom (vocal_tonic_note 10) (song_tonality 0) (author "Harmonix"))
 (ithinkimparanoid (vocal_tonic_note 7) (song_tonality 0) (author "Harmonix"))
 (learntofly (vocal_tonic_note 11) (song_tonality 0) (author "Harmonix"))
 (mainoffender (vocal_tonic_note 2) (song_tonality 0) (author "Harmonix"))

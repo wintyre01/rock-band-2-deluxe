@@ -37,7 +37,10 @@
 			floaton
 			drainyou
 			maninthebox
-			lump)
+			lump
+			alive
+			everlong
+			spoonman)
 		(fame (town 12))
 		(money_per_star 25))
 	(jukebox
@@ -92,6 +95,7 @@
 			pretendweredead
 			drainyou
 			maninthebox
+			lump
 			alive
 			spoonman)
 		(fame

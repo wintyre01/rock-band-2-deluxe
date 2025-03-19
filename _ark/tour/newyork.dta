@@ -37,7 +37,9 @@
 			sowhatchawant
 			pda
 			onewayoranother
-			psychokiller)
+			psychokiller
+			teenageriot
+			bodhisattva)
 		(fame (town 12))
 		(money_per_star 25))
 	(jukebox
@@ -96,14 +98,21 @@
 					tanktop_nyhc))))
 	(eastcoastmara
 		(songs
+			hellothere
+			thatswhatyouget
+			today
 			wheredyougo
-			alexchilton
+			spiritinthesky
 			badreputation
 			teenageriot
+			eyeofthetiger
+			feelthepain
 			giveitall
+			downwiththesickness
 			ramblinman
 			colonyofbirchmen
-			bodhisattva)
+			bodhisattva
+			panicattack)
 		(fame
 			(town 30)
 			(world 450))

@@ -1,14 +1,14 @@
 (arena
 	arena_04
 	(song78
-		(songs (band 78))
+		(songs chopsuey)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
 		(money_per_star 120)
 		BWT_BUZZ_MEDIUMBLOCKMEGAPLUS)
 	(song81
-		(songs (band 81))
+		(songs visions)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
@@ -54,64 +54,64 @@
 	
 	(allmara
 		(songs
-			sayitaintso
-			inbloom
-			ithinkimparanoid
-			missqueen
-			hereitgoesagain
-			creep
-			29fingers
-			waveofmutilation
-			shouldistay
-			seven
-			maps
-			gimmeshelter
-			sabotage
-			blitzkriegbop
-			celebrityskin
-			whenyouwereyoung
-			imsosick
-			timewehad
-			blackholesun
-			blooddoll
-			wanteddeadoralive
-			learntofly
-			daylatedollarshort
-			nightmare
-			orangecrush
-			mainoffender
-			thehandthatfeeds
-			epic
-			suffragettecity
-			ballroomblitz
-			deadonarrival
-			trainkeptarollin
-			pleasure
-			areyougonnabemygirl
-			paranoid
-			brainpower
-			welcomehome
-			cantletgo
-			gowiththeflow
-			danicalifornia
-			dontfearthereaper
-			igetby
-			reptilia
-			outside
-			electricversion
-			vasoline
-			detroitrockcity
-			timmy
-			nexttoyou
-			cherubrock
-			tomsawyer
-			entersandman
-			highwaystar
-			foreplaylongtime
-			flirtinwithdisaster
-			runtothehills
-			wontgetfooled
-			greengrass
+	        	 inbloom
+        		 maps
+	        	 shouldistay
+		         ithinkimparanoid
+		         hereitgoesagain
+		         blitzkriegbop
+		         sayitaintso
+		         timewehad
+		         waveofmutilation
+		         creep
+		         missqueen
+		         29fingers
+		         learntofly
+		         orangecrush
+		         thehandthatfeeds
+		         sabotage
+		         blooddoll
+		         celebrityskin
+		         seven
+		         nightmare
+		         gimmeshelter
+		         gowiththeflow
+		         daylatedollarshort
+		         epic
+		         pleasure
+		         blackholesun
+		         mainoffender
+		         imsosick
+		         wanteddeadoralive
+		         reptilia
+		         suffragettecity
+		         paranoid
+		         whenyouwereyoung
+		         danicalifornia
+		         detroitrockcity
+		         igetby
+		         electricversion
+		         outside
+		         areyougonnabemygirl
+		         dontfearthereaper
+		         vasoline
+		         ballroomblitz
+		         brainpower
+		         deadonarrival
+		         cantletgo
+		         cherubrock
+		         welcomehome
+		         timmy
+		         nexttoyou
+		         trainkeptarollin
+		         entersandman
+		         foreplaylongtime
+		         wontgetfooled
+		         tomsawyer
+		         highwaystar
+		         flirtinwithdisaster
+		         greengrass
+			 runtothehills
       )
       (fame (world 2000))
       (money_per_star 120)

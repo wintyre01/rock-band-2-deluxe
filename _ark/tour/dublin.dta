@@ -57,11 +57,19 @@
 		(money_per_star 120))
 	(misclocationmara
 		(songs
+			nineintheafternoon
+			thatswhatyouget
 			themiddle
 			livinonaprayer
+			tangledupinblue
+			badreputation
 			alexchilton
+			ourtruth
+			carryonwaywardson
 			uncontrollableurge
-			letthereberock)
+			letthereberock
+			ramblinman
+			colonyofbirchmen)
 		(fame
 			(town 30)
 			(world 200))

@@ -1,13 +1,13 @@
 (big_club
 	big_club_14
 	(song70
-		(songs (band 70))
+		(songs almosteasy)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
 		(money_per_star 120))
 	(song76
-		(songs (band 76))
+		(songs peacesells)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
@@ -16,12 +16,26 @@
 		(songs
 			drainyou
 			maninthebox
+			pretendweredead
 			today
+			yououghtaknow
+			giveitaway
+			sowhatchawant
 			lump
+			myownworstenemy
+			wheredyougo
+			feelthepain
 			deluxe
 			kidsinamerica
+			iwaswrong
+			rebelgirl
 			comeoutandplay
-			alive)
+			testify
+			alive
+			everlong
+			spoonman
+			soulsofblack
+			painkiller)
 		(fame (world 200))
 		(item tour_staff_worldblock)
 		(money_per_star 120)

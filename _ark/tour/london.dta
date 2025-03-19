@@ -39,6 +39,8 @@
          nexttoyou
          shouldistay
          gimmeshelter
+		 suffragettecity
+		 ballroomblitz
          wontgetfooled
          highwaystar
          runtothehills
@@ -88,7 +90,7 @@
       (songs
          blitzkriegbop
          seven
-         daylatedollarshort
+         mainoffender
          shouldistay
       )
       (fame (town 30) (world 200))
@@ -101,7 +103,9 @@
 			rebelgirl
 			comeoutandplay
 			badreputation
-			giveitall)
+			alexchilton
+			giveitall
+			welcometothe)
 		(fame
 			(town 30)
 			(world 200))
@@ -142,10 +146,16 @@
 	
 	(ukmara
 		(songs
+			hungrylikethewolf
+			coolforcats
 			aqualung
 			pinballwizard
+			pumpitup
+			whitewedding
+			deluxe
+			shootingstar
+			goyourownway
 			aceofspades
-			panicattack
 			painkiller)
 		(fame
 			(town 30)

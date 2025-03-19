@@ -37,13 +37,25 @@
 		(money_per_star 25))
 	(localartists
 		(songs
+			myownworstenemy
+			pretendweredead
+			iwaswrong
+			wegotthebeat
+			epro
 			onestepcloser
 			giveitaway
 			kidsinamerica
 			lazyeye
 			comeoutandplay
 			mountainsong
-			testify)
+			roundandround
+			testify
+			shacklersrevenge
+			masterexploder
+			almosteasy
+			chopsuey
+			peacesells
+			battery)
 		(fame
 			(town 12)
 			(world 100))
@@ -87,12 +99,36 @@
 		BWT_CHAR_UNLOCK_ERNIEBALL)
 	(westcoastmara
 		(songs
+			myownworstenemy
+			maninthebox
+			pretendweredead
+			iwaswrong
+			rebelgirl
+			drainyou
+			wegotthebeat
+			epro
+			newkidinschool
+			onestepcloser
+			giveitaway
+			lump
+			floaton
+			roundandround
+			girlsnotgrey
 			shacklersrevenge
 			chopsuey
+			alive
 			everlong
+			kidsinamerica
+			lazyeye
+			comeoutandplay
+			masterexploder
+			almosteasy
+			spoonman
 			peacesells
 			soulsofblack
-			battery)
+			battery
+			mountainsong
+			testify)
 		(fame
 			(town 40)
 			(world 300))

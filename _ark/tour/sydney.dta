@@ -1,14 +1,14 @@
 (arena
 	arena_05
 	(song75
-		(songs (band 75))
+		(songs thetrees)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
 		(money_per_star 120)
 		BWT_BUZZ_MEDIUMBLOCKMEGAPLUS)
 	(song77
-		(songs (band 77))
+		(songs ramblinman)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))

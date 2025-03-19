@@ -39,7 +39,8 @@
 			girlsnotgrey
 			rocknme
 			anywayyouwantit
-			alabamagetaway)
+			alabamagetaway
+			soulsofblack)
 		(fame (town 12))
 		(money_per_star 25))
 	(jukebox
@@ -69,13 +70,16 @@
 		(money_per_star 80))
 	(classicrockmara
 		(songs
+			spiritinthesky
 			shootingstar
 			americanwoman
 			goyourownway
 			tangledupinblue
+			alabamagetaway
 			pinballwizard
 			rocknme
-			anywayyouwantit)
+			anywayyouwantit
+			bodhisattva)
 		(fame
 			(town 30)
 			(world 200))

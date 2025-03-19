@@ -1,14 +1,14 @@
 (arena
 	arena_02
 	(song71
-		(songs (band 71))
+		(songs getclean)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
 		(money_per_star 120)
 		BWT_BUZZ_MEDIUMBLOCKMEGAPLUS)
 	(song82
-		(songs (band 82))
+		(songs battery)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
@@ -37,51 +37,51 @@
 	;;Lego Endless Setlist
 	(legomara
 		(songs
-			grace
+			wewillrockyou1
 			rideawhiteswan
-			freefallin
-			swingswing
-			summerof69
-			dreamingofyou
-			ticktickboom
-			girlsandboys
-			checkyesjuliet
-			ghostbusters
-			dig
-			accidentallyinlove
-			yougiveloveabadname
-			ruby
-			song2
-			intoodeep
-			makemesmile
-			lifeisahighway
-			letsdance
-			rooftops
-			thepassenger
-			valerie
-			walkingonsunshine
 			thunder
-			realwildchild
-			shortandsweet
-			kungfufighting
-			iwantyouback
-			monster
-			everylittlething
-			naive
-			stumbleandfall
-			breakout
-			apunk
-			twoprinces
-			wordup
+			song2
+			swingswing
+			letsdance
+			dreamingofyou
+			freefallin
+			thepassenger
+			checkyesjuliet
+			wearethechampions
+			summerof69
+			crash
+			accidentallyinlove
+			girlsandboys
+			yougiveloveabadname
+			ghostbusters
+			ruby
 			sowhat
 			crocodilerock
-			thefinalcountdown
-			fire
-			suddenlyisee
+			rooftops
+			wordup
+			grace
+			valerie
+			dig
+			walkingonsunshine
+			breakout
+			monster
+			apunk
+			makemesmile
+			ticktickboom
+			everylittlething
+			intoodeep
+			stumbleandfall
 			aliensexist
-			wewillrockyou1
-			wearethechampions
-			crash
+			suddenlyisee
+			thefinalcountdown
+			kungfufighting
+			naive
+			lifeisahighway
+			shortandsweet
+			iwantyouback
+			twoprinces
+			realwildchild
+			fire
 		)
       (fame (world 1000))
       (reward_per_star 120)

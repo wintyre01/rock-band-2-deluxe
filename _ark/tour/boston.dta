@@ -37,7 +37,8 @@
 		(songs
 			spiritinthesky
 			feelthepain
-			wheredyougo)
+			wheredyougo
+			panicattack)
 		(fame (town 12))
 		(money_per_star 25))
 	(jukebox
@@ -83,8 +84,14 @@
 		BWT_BUZZ_MEDIUMBLOCK)
 	(alternativemara
 		(songs
+			myownworstenemy
+			today
+			epro
 			deluxe
 			giveitaway
+			feelthepain
+			mountainsong
+			yououghtaknow
 			testify
 			teenageriot
 			everlong)

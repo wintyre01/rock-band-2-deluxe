@@ -1,13 +1,13 @@
 (arena
 	arena_12
 	(song73
-		(songs (band 73))
+		(songs aceofspades)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
 		(money_per_star 120))
 	(song80
-		(songs (band 80))
+		(songs soulsofblack)
 		(display_song TRUE)
 		(item tour_staff_worldblock)
 		(fame (world 100))
@@ -33,12 +33,22 @@
 	(70smara
 		(songs
 			hellothere
+			coolforcats
+			americanwoman
+			psychokiller
+			pumpitup
+			tangledupinblue
+			onewayoranother
+			goyourownway
 			rocknme
+			shootingstar
 			uncontrollableurge
 			letthereberock
 			carryonwaywardson
 			thetrees
-			aqualung)
+			aqualung
+			bodhisattva
+			ramblinman)
 		(money_per_star 120)
 		(item tour_staff_worldblock)
 		(fame (world 200))

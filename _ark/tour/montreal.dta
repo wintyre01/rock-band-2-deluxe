@@ -66,13 +66,25 @@
 		(money_per_star 120))
 	(00smara
 		(songs
+			onestepcloser
+			downwiththesickness
 			themiddle
+			pda
 			girlsnotgrey
+			floaton
+			epro
 			lazyeye
 			ourtruth
+			masterexploder
+			almosteasy
 			chopsuey
+			thatswhatyouget
+			newkidinschool
+			nineintheafternoon
+			shacklersrevenge
 			giveitall
-			colonyofbirchmen)
+			colonyofbirchmen
+			panicattack)
 		(fame
 			(town 30)
 			(world 200))

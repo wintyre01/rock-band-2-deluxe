@@ -38,7 +38,7 @@
       (guitar 388)
       (bass 471)
       (vocals 255)
-      (band 453))
+      (band 386))
    (genre metal)
    (decade the80s)
    (vocal_gender male)
@@ -49,7 +49,8 @@
    (album_name
       "Ace of Spades '08")
    (album_track_number 1)
-   (base_points 445498))
+   (base_points 445498)
+   (downloaded TRUE))
 (alabamagetaway
    (name
       "Alabama Getaway")
@@ -91,7 +92,7 @@
       (guitar 362)
       (bass 213)
       (vocals 326)
-      (band 336))
+      (band 300))
    (genre classicrock)
    (decade the80s)
    (vocal_gender male)
@@ -102,7 +103,8 @@
    (album_name
       "Go to Heaven")
    (album_track_number 1)
-   (base_points 553565))
+   (base_points 553565)
+   (downloaded TRUE))
 (alexchilton
    (name
       "Alex Chilton")
@@ -143,7 +145,7 @@
       (guitar 282)
       (bass 304)
       (vocals 213)
-      (band 309))
+      (band 282))
    (genre punk)
    (decade the80s)
    (vocal_gender male)
@@ -154,7 +156,8 @@
    (album_name
       "Pleased To Meet Me")
    (album_track_number 2)
-   (base_points 475056))
+   (base_points 475056)
+   (downloaded TRUE))
 (alive
    (name
       "Alive")
@@ -195,7 +198,7 @@
       (guitar 287)
       (bass 284)
       (vocals 232)
-      (band 323))
+      (band 274))
    (genre grunge)
    (decade the90s)
    (vocal_gender male)
@@ -208,7 +211,8 @@
    (album_track_number 3)
    (video_venues
       (video_01))
-   (base_points 664811))
+   (base_points 664811)
+   (downloaded TRUE))
 (almosteasy
    (name
       "Almost Easy")
@@ -249,7 +253,7 @@
       (guitar 396)
       (bass 391)
       (vocals 307)
-      (band 460))
+      (band 365))
    (genre metal)
    (decade the00s)
    (vocal_gender male)
@@ -260,7 +264,8 @@
    (album_name
       "Avenged Sevenfold")
    (album_track_number 2)
-   (base_points 627242))
+   (base_points 627242)
+   (downloaded TRUE))
 (americanwoman
    (name
       "American Woman")
@@ -301,7 +306,7 @@
       (guitar 165)
       (bass 216)
       (vocals 239)
-      (band 259))
+      (band 233))
    (genre classicrock)
    (decade the70s)
    (vocal_gender male)
@@ -312,7 +317,8 @@
    (album_name
       "American Woman")
    (album_track_number 1)
-   (base_points 595787))
+   (base_points 595787)
+   (downloaded TRUE))
 (anywayyouwantit
    (name
       "Any Way You Want It")
@@ -353,7 +359,7 @@
       (guitar 344)
       (bass 317)
       (vocals 372)
-      (band 373))
+      (band 319))
    (genre classicrock)
    (decade the80s)
    (vocal_gender male)
@@ -364,7 +370,8 @@
    (album_name
       "Departure")
    (album_track_number 1)
-   (base_points 503236))
+   (base_points 503236)
+   (downloaded TRUE))
 (aqualung
    (name
       "Aqualung")
@@ -405,7 +412,7 @@
       (guitar 296)
       (bass 365)
       (vocals 297)
-      (band 395))
+      (band 330))
    (genre prog)
    (decade the70s)
    (year_released 1971)
@@ -417,7 +424,8 @@
    (album_name
       "Aqualung")
    (album_track_number 1)
-   (base_points 782184))
+   (base_points 782184)
+   (downloaded TRUE))
 (badreputation
    (name
       "Bad Reputation")
@@ -457,7 +465,7 @@
       (guitar 228)
       (bass 229)
       (vocals 268)
-      (band 364))
+      (band 281))
    (genre punk)
    (decade the80s)
    (vocal_gender female)
@@ -470,7 +478,8 @@
    (album_track_number 1)
    (video_venues
       (video_04))
-   (base_points 498916))
+   (base_points 498916)
+   (downloaded TRUE))
 (battery
    (name
       "Battery")
@@ -510,7 +519,7 @@
       (guitar 483)
       (bass 553)
       (vocals 261)
-      (band 520))
+      (band 452))
    (genre metal)
    (decade the80s)
    (vocal_gender male)
@@ -521,7 +530,8 @@
    (album_name
       "Master of Puppets")
    (album_track_number 1)
-   (base_points 761017))
+   (base_points 761017)
+   (downloaded TRUE))
 (bodhisattva
    (name
       "Bodhisattva")
@@ -562,7 +572,7 @@
       (guitar 474)
       (bass 424)
       (vocals 148)
-      (band 500))
+      (band 355))
    (genre classicrock)
    (decade the70s)
    (vocal_gender male)
@@ -573,7 +583,8 @@
    (album_name
       "Countdown to Ecstasy")
    (album_track_number 1)
-   (base_points 756493))
+   (base_points 756493)
+   (downloaded TRUE))
 (carryonwaywardson
    (name
       "Carry On Wayward Son")
@@ -615,7 +626,7 @@
       (guitar 379)
       (bass 412)
       (vocals 411)
-      (band 433))
+      (band 343))
    (genre prog)
    (decade the70s)
    (vocal_gender male)
@@ -626,7 +637,8 @@
    (album_name
       "Leftoverture")
    (album_track_number 1)
-   (base_points 590293))
+   (base_points 590293)
+   (downloaded TRUE))
 (chopsuey
    (name
       "Chop Suey")
@@ -667,7 +679,7 @@
       (guitar 401)
       (bass 505)
       (vocals 443)
-      (band 407))
+      (band 417))
    (genre numetal)
    (decade the00s)
    (vocal_gender male)
@@ -678,7 +690,8 @@
    (album_name
       "Toxicity")
    (album_track_number 6)
-   (base_points 576805))
+   (base_points 576805)
+   (downloaded TRUE))
 ; LMAO fuck the hmx tiering this is the one way to fix it I guess
 (chronicstupidity
    (name
@@ -720,7 +733,7 @@
       (vocals 130)
       (band 130))
    (genre other)
-   (decade the00s)
+   (decade the20s)
    (vocal_gender male)
    (version 1)
    (format 3)
@@ -767,7 +780,7 @@
       (vocals 170)
       (band 170))
    (genre other)
-   (decade the00s)
+   (decade the20s)
    (vocal_gender male)
    (version 1)
    (format 3)
@@ -814,7 +827,7 @@
       (vocals 210)
       (band 210))
    (genre other)
-   (decade the00s)
+   (decade the20s)
    (vocal_gender male)
    (version 1)
    (format 3)
@@ -861,7 +874,7 @@
       (vocals 270)
       (band 270))
    (genre other)
-   (decade the00s)
+   (decade the20s)
    (vocal_gender male)
    (version 1)
    (format 3)
@@ -908,7 +921,7 @@
       (vocals 340)
       (band 340))
    (genre other)
-   (decade the00s)
+   (decade the20s)
    (vocal_gender male)
    (version 1)
    (format 3)
@@ -955,7 +968,7 @@
       (vocals 400)
       (band 400))
    (genre other)
-   (decade the00s)
+   (decade the20s)
    (vocal_gender male)
    (version 1)
    (format 3)
@@ -1002,7 +1015,7 @@
       (vocals 401)
       (band 401))
    (genre other)
-   (decade the00s)
+   (decade the20s)
    (vocal_gender male)
    (version 1)
    (format 3)
@@ -1047,7 +1060,7 @@
       (guitar 448)
       (bass 396)
       (vocals 417)
-      (band 487))
+      (band 426))
    (genre metal)
    (decade the00s)
    (vocal_gender male)
@@ -1058,7 +1071,8 @@
    (album_name
       "Blood Mountain")
    (album_track_number 7)
-   (base_points 628732))
+   (base_points 628732)
+   (downloaded TRUE))
 (comeoutandplay
    (name
       "Come Out and Play (Keep 'Em Separated)")
@@ -1100,7 +1114,7 @@
       (guitar 318)
       (bass 118)
       (vocals 300)
-      (band 295))
+      (band 241))
    (genre punk)
    (decade the90s)
    (vocal_gender male)
@@ -1111,7 +1125,8 @@
    (album_name
       "Smash")
    (album_track_number 7)
-   (base_points 510840))
+   (base_points 510840)
+   (downloaded TRUE))
 (coolforcats
    (name
       "Cool for Cats")
@@ -1152,7 +1167,7 @@
       (guitar 116)
       (bass 268)
       (vocals 124)
-      (band 168))
+      (band 165))
    (genre new_wave)
    (decade the70s)
    (vocal_gender male)
@@ -1165,7 +1180,8 @@
    (album_track_number 12)
    (video_venues
       (video_03))
-   (base_points 347096))
+   (base_points 347096)
+   (downloaded TRUE))
 (deluxe
    (name
       "De-Luxe")
@@ -1205,7 +1221,7 @@
       (guitar 264)
       (bass 129)
       (vocals 183)
-      (band 241))
+      (band 203))
    (genre alternative)
    (decade the90s)
    (vocal_gender female)
@@ -1218,7 +1234,8 @@
    (album_track_number 4)
    (video_venues
       (video_02))
-   (base_points 466353))
+   (base_points 466353)
+   (downloaded TRUE))
 (downwiththesickness
    (name
       "Down with the Sickness")
@@ -1259,7 +1276,7 @@
       (guitar 305)
       (bass 352)
       (vocals 378)
-      (band 400))
+      (band 345))
    (genre numetal)
    (decade the00s)
    (vocal_gender male)
@@ -1270,7 +1287,8 @@
    (album_name
       "The Sickness")
    (albumt_track_number 4)
-   (base_points 698613))
+   (base_points 698613)
+   (downloaded TRUE))
 (drainyou
    (name
       "Drain You")
@@ -1311,7 +1329,7 @@
       (guitar 148)
       (bass 219)
       (vocals 145)
-      (band 153))
+      (band 171))
    (genre grunge)
    (decade the90s)
    (vocal_gender male)
@@ -1324,7 +1342,8 @@
    (album_track_number 8)
    (video_venues
       (video_04))
-   (base_points 483043))
+   (base_points 483043)
+   (downloaded TRUE))
 (epro
    (name
       "E-Pro")
@@ -1366,7 +1385,7 @@
       (guitar 193)
       (bass 147)
       (vocals 200)
-      (band 121))
+      (band 187))
    (genre alternative)
    (decade the00s)
    (vocal_gender male)
@@ -1379,7 +1398,8 @@
    (album_track_number 1)
    (video_venues
       (video_03))
-   (base_points 425702))
+   (base_points 425702)
+   (downloaded TRUE))
 (everlong
    (name
       "Everlong")
@@ -1421,7 +1441,7 @@
       (guitar 322)
       (bass 297)
       (vocals 197)
-      (band 413))
+      (band 326))
    (genre alternative)
    (decade the90s)
    (vocal_gender male)
@@ -1434,7 +1454,8 @@
    (album_track_number 11)
    (video_venues
       (video_04))
-   (base_points 660358))
+   (base_points 660358)
+   (downloaded TRUE))
 (eyeofthetiger
    (name
       "Eye of the Tiger")
@@ -1475,7 +1496,7 @@
       (guitar 100)
       (bass 100)
       (vocals 210)
-      (band 100))
+      (band 128))
    (genre rock)
    (decade the80s)
    (vocal_gender male)
@@ -1486,7 +1507,8 @@
    (album_name
       "Eye of the Tiger")
    (album_track_number 1)
-   (base_points 433758))
+   (base_points 433758)
+   (downloaded TRUE))
 (feelthepain
    (name
       "Feel the Pain")
@@ -1526,7 +1548,7 @@
       (guitar 210)
       (bass 309)
       (vocals 172)
-      (band 205))
+      (band 221))
    (genre alternative)
    (decade the90s)
    (vocal_gender male)
@@ -1537,7 +1559,8 @@
    (album_name
       "Without a Sound")
    (album_track_number 1)
-   (base_points 502262))
+   (base_points 502262)
+   (downloaded TRUE))
 (floaton
    (name
       "Float On")
@@ -1578,7 +1601,7 @@
       (guitar 104)
       (bass 124)
       (vocals 179)
-      (band 147))
+      (band 134))
    (genre indierock)
    (decade the00s)
    (vocal_gender male)
@@ -1589,7 +1612,8 @@
    (album_name
       "Good News for People Who Love Bad News")
    (album_track_number 3)
-   (base_points 350237))
+   (base_points 350237)
+   (downloaded TRUE))
 (girlsnotgrey
    (name
       "Girl's Not Grey")
@@ -1630,7 +1654,7 @@
       (guitar 269)
       (bass 326)
       (vocals 229)
-      (band 286))
+      (band 278))
    (genre emo)
    (decade the00s)
    (vocal_gender male)
@@ -1641,7 +1665,8 @@
    (album_name
       "Sing the Sorrow")
    (album_track_number 6)
-   (base_points 501653))
+   (base_points 501653)
+   (downloaded TRUE))
 (giveitall
    (name
       "Give It All")
@@ -1682,7 +1707,7 @@
       (guitar 309)
       (bass 348)
       (vocals 290)
-      (band 427))
+      (band 355))
    (genre punk)
    (decade the00s)
    (vocal_gender male)
@@ -1693,7 +1718,8 @@
    (album_name
       "Siren Song of the Counter Culture")
    (album_track_number 9)
-   (base_points 541209))
+   (base_points 541209)
+   (downloaded TRUE))
 (giveitaway
    (name
       "Give It Away")
@@ -1729,11 +1755,11 @@
    (anim_tempo kTempoSlow)
    (preview 77654 106235)
    (rank
-      (drum 141)
-      (guitar 214)
-      (bass 339)
-      (vocals 313)
-      (band 250))
+      (drum 210)
+      (guitar 230)
+      (bass 261)
+      (vocals 151)
+      (band 213))
    (genre alternative)
    (decade the90s)
    (vocal_gender male)
@@ -1744,7 +1770,8 @@
    (album_name
       "Blood Sugar Sex Magik")
    (album_track_number 9)
-   (base_points 668598))
+   (base_points 668598)
+   (downloaded TRUE))
 (goyourownway
    (name
       "Go Your Own Way")
@@ -1785,7 +1812,7 @@
       (guitar 241)
       (bass 265)
       (vocals 235)
-      (band 277))
+      (band 224))
    (genre classicrock)
    (decade the70s)
    (year_released 1977)
@@ -1797,7 +1824,8 @@
    (album_name
       "Rumours")
    (album_track_number 5)
-   (base_points 580209))
+   (base_points 580209)
+   (downloaded TRUE))
 (hellothere
    (name
       "Hello There")
@@ -1838,18 +1866,20 @@
       (guitar 157)
       (bass 261)
       (vocals 114)
-      (band 174))
+      (band 168))
    (genre poprock)
    (decade the70s)
+   (year_released 1997)
    (vocal_gender male)
    (version 1)
    (format 3)
    (album_art TRUE)
    (album_name
-      "Hello There")
+      "In Color (Unreleased Steve Albini Version)")
    (video_venues
       (video_04))
-   (base_points 250102))
+   (base_points 250102)
+   (downloaded TRUE))
 (hungrylikethewolf
    (name
       "Hungry Like the Wolf")
@@ -1890,7 +1920,7 @@
       (guitar 112)
       (bass 200)
       (vocals 117)
-      (band 126))
+      (band 134))
    (genre new_wave)
    (decade the80s)
    (year_released 1982)
@@ -1904,7 +1934,8 @@
    (album_track_number 4)
    (video_venues
       (video_03))
-   (base_points 503366))
+   (base_points 503366)
+   (downloaded TRUE))
 (iwaswrong
    (name
       "I Was Wrong")
@@ -1945,7 +1976,7 @@
       (guitar 169)
       (bass 232)
       (vocals 110)
-      (band 111))
+      (band 158))
    (genre punk)
    (decade the90s)
    (vocal_gender male)
@@ -1956,7 +1987,8 @@
    (album_name
       "Greatest Hits")
    (album_track_number 9)
-   (base_points 494388))
+   (base_points 494388)
+   (downloaded TRUE))
 (kidsinamerica
    (name
       "Kids in America")
@@ -1997,7 +2029,7 @@
       (guitar 205)
       (bass 226)
       (vocals 134)
-      (band 282))
+      (band 236))
    (genre poprock)
    (decade the90s)
    (vocal_gender female)
@@ -2010,7 +2042,8 @@
    (album_track_number 1)
    (video_venues
       (video_02))
-   (base_points 611428))
+   (base_points 611428)
+   (downloaded TRUE))
 (lazyeye
    (name
       "Lazy Eye")
@@ -2051,7 +2084,7 @@
       (guitar 366)
       (bass 194)
       (vocals 107)
-      (band 291))
+      (band 213))
    (genre indierock)
    (decade the00s)
    (vocal_gender male)
@@ -2064,7 +2097,8 @@
    (album_track_number 7)
    (video_venues
       (video_03))
-   (base_points 804331))
+   (base_points 804331)
+   (downloaded TRUE))
 (letthereberock
    (name
       "Let There Be Rock")
@@ -2104,8 +2138,8 @@
       (guitar 357)
       (bass 171)
       (vocals 271)
-      (band 386))
-   (genre classicrock)
+      (band 244))
+   (genre rock)
    (decade the70s)
    (vocal_gender male)
    (version 1)
@@ -2115,7 +2149,8 @@
    (album_name
       "Let There Be Rock")
    (album_track_number 3)
-   (base_points 965767))
+   (base_points 965767)
+   (downloaded TRUE))
 (livinonaprayer
    (name
       "Livin' on a Prayer")
@@ -2156,7 +2191,7 @@
       (guitar 260)
       (bass 335)
       (vocals 281)
-      (band 264))
+      (band 251))
    (genre rock)
    (decade the80s)
    (vocal_gender male)
@@ -2167,7 +2202,8 @@
    (album_name
       "Slippery When Wet")
    (album_track_number 3)
-   (base_points 492837))
+   (base_points 492837)
+   (downloaded TRUE))
 (lump
    (name
       "Lump")
@@ -2208,7 +2244,7 @@
       (guitar 161)
       (bass 343)
       (vocals 103)
-      (band 232))
+      (band 241))
    (genre grunge)
    (decade the90s)
    (vocal_gender male)
@@ -2221,7 +2257,8 @@
    (album_track_number 3)
    (video_venues
       (video_02))
-   (base_points 370182))
+   (base_points 370182)
+   (downloaded TRUE))
 (maninthebox
    (name
       "Man in the Box")
@@ -2262,18 +2299,19 @@
       (guitar 181)
       (bass 153)
       (vocals 131)
-      (band 163))
+      (band 153))
    (genre grunge)
    (decade the90s)
    (vocal_gender male)
    (version 1)
    (format 3)
    (album_art TRUE)
-   (year_released 1991)
+   (year_released 1990)
    (album_name
       "Facelift")
    (album_track_number 2)
-   (base_points 464311))
+   (base_points 464311)
+   (downloaded TRUE))
 (masterexploder
    (name
       "Master Exploder")
@@ -2313,7 +2351,7 @@
       (guitar 414)
       (bass 206)
       (vocals 424)
-      (band 420))
+      (band 349))
    (genre rock)
    (decade the00s)
    (vocal_gender male)
@@ -2324,7 +2362,8 @@
    (album_name
       "The Pick Of Destiny")
    (album_track_number 7)
-   (base_points 310100))
+   (base_points 310100)
+   (downloaded TRUE))
 (mountainsong
    (name
       "Mountain Song")
@@ -2365,7 +2404,7 @@
       (guitar 177)
       (bass 300)
       (vocals 287)
-      (band 300))
+      (band 268))
    (genre alternative)
    (decade the80s)
    (vocal_gender male)
@@ -2378,7 +2417,8 @@
    (album_track_number 7)
    (video_venues
       (video_04))
-   (base_points 588852))
+   (base_points 588852)
+   (downloaded TRUE))
 (myownworstenemy
    (name
       "My Own Worst Enemy")
@@ -2419,7 +2459,7 @@
       (guitar 124)
       (bass 135)
       (vocals 121)
-      (band 105))
+      (band 125))
    (genre alternative)
    (decade the90s)
    (vocal_gender male)
@@ -2430,7 +2470,8 @@
    (album_name
       "A Place in the Sun")
    (album_track_number 2)
-   (base_points 336735))
+   (base_points 336735)
+   (downloaded TRUE))
 (newkidinschool
    (name
       "New Kid in School")
@@ -2482,7 +2523,8 @@
    (album_name
       "Bitchin'")
    (album_track_number 19)
-   (base_points 444042))
+   (base_points 444042)
+   (downloaded TRUE))
 (nineintheafternoon
    (name
       "Nine in the Afternoon")
@@ -2522,7 +2564,7 @@
       (guitar 173)
       (bass 182)
       (vocals 186)
-      (band 142))
+      (band 163))
    (genre emo)
    (decade the00s)
    (vocal_gender male)
@@ -2533,7 +2575,8 @@
    (album_name
       "Pretty. Odd.")
    (album_track_number 2)
-   (base_points 319461))
+   (base_points 319461)
+   (downloaded TRUE))
 (onestepcloser
    (name
       "One Step Closer")
@@ -2573,7 +2616,7 @@
       (guitar 128)
       (bass 165)
       (vocals 284)
-      (band 214))
+      (band 209))
    (genre numetal)
    (decade the00s)
    (vocal_gender male)
@@ -2584,7 +2627,8 @@
    (album_name
       "Hybrid Theory")
    (album_track_number 2)
-   (base_points 382952))
+   (base_points 382952)
+   (downloaded TRUE))
 (onewayoranother
    (name
       "One Way or Another")
@@ -2625,7 +2669,7 @@
       (guitar 273)
       (bass 271)
       (vocals 223)
-      (band 268))
+      (band 241))
    (genre new_wave)
    (decade the70s)
    (vocal_gender female)
@@ -2636,7 +2680,8 @@
    (album_name
       "Parallel Lines")
    (album_track_number 2)
-   (base_points 563660))
+   (base_points 563660)
+   (downloaded TRUE))
 (ourtruth
    (name
       "Our Truth")
@@ -2676,7 +2721,7 @@
       (guitar 185)
       (bass 374)
       (vocals 365)
-      (band 355))
+      (band 313))
    (genre metal)
    (decade the00s)
    (vocal_gender female)
@@ -2689,7 +2734,8 @@
    (album_track_number 3)
    (video_venues
       (video_01))
-   (base_points 381488))
+   (base_points 381488)
+   (downloaded TRUE))
 (painkiller
    (name
       "Painkiller")
@@ -2729,7 +2775,7 @@
       (guitar 505)
       (bass 436)
       (vocals 430)
-      (band 550))
+      (band 478))
    (genre metal)
    (decade the90s)
    (vocal_gender male)
@@ -2740,7 +2786,8 @@
    (album_name
       "Painkiller")
    (album_track_number 1)
-   (base_points 982771))
+   (base_points 982771)
+   (downloaded TRUE))
 (panicattack
    (name
       "Panic Attack")
@@ -2780,7 +2827,7 @@
       (guitar 491)
       (bass 600)
       (vocals 359)
-      (band 540))
+      (band 500))
    (genre prog)
    (decade the00s)
    (vocal_gender male)
@@ -2791,7 +2838,8 @@
    (album_name
       "Octavarium")
    (album_track_number 5)
-   (base_points 1161412))
+   (base_points 1161412)
+   (downloaded TRUE))
 (pda
    (name
       "PDA")
@@ -2831,7 +2879,7 @@
       (guitar 250)
       (bass 248)
       (vocals 248)
-      (band 158))
+      (band 253))
    (genre indierock)
    (decade the00s)
    (vocal_gender male)
@@ -2842,7 +2890,8 @@
    (album_name
       "Turn On the Bright Lights")
    (album_track_number 4)
-   (base_points 726454))
+   (base_points 726454)
+   (downloaded TRUE))
 (peacesells
    (name
       "Peace Sells")
@@ -2882,7 +2931,7 @@
       (guitar 457)
       (bass 495)
       (vocals 190)
-      (band 480))
+      (band 411))
    (genre metal)
    (decade the80s)
    (vocal_gender male)
@@ -2893,7 +2942,8 @@
    (album_name
       "Peace Sells... but Who's Buying?")
    (album_track_number 3)
-   (base_points 638581))
+   (base_points 638581)
+   (downloaded TRUE))
 (pinballwizard
    (name
       "Pinball Wizard")
@@ -2934,7 +2984,7 @@
       (guitar 327)
       (bass 290)
       (vocals 252)
-      (band 350))
+      (band 310))
    (genre classicrock)
    (decade the60s)
    (year_released 1969)
@@ -2948,7 +2998,8 @@
    (album_track_number 13)
    (video_venues
       (arena_06))
-   (base_points 340691))
+   (base_points 340691)
+   (downloaded TRUE))
 (pretendweredead
    (name
       "Pretend We're Dead")
@@ -2989,7 +3040,7 @@
       (guitar 120)
       (bass 176)
       (vocals 100)
-      (band 132))
+      (band 135))
    (genre grunge)
    (decade the90s)
    (vocal_gender female)
@@ -3002,7 +3053,8 @@
    (album_track_number 3)
    (video_venues
       (video_03))
-   (base_points 501744))
+   (base_points 501744)
+   (downloaded TRUE))
 (psychokiller
    (name
       "Psycho Killer")
@@ -3043,7 +3095,7 @@
       (guitar 197)
       (bass 277)
       (vocals 391)
-      (band 227))
+      (band 242))
    (genre new_wave)
    (decade the70s)
    (year_released 1977)
@@ -3057,7 +3109,8 @@
    (album_track_number 10)
    (video_venues
       (small_club_03))
-   (base_points 514106))
+   (base_points 514106)
+   (downloaded TRUE))
 (pumpitup
    (name
       "Pump It Up")
@@ -3098,7 +3151,7 @@
       (guitar 232)
       (bass 210)
       (vocals 169)
-      (band 209))
+      (band 208))
    (genre rock)
    (decade the70s)
    (vocal_gender male)
@@ -3111,7 +3164,8 @@
    (album_track_number 4)
    (video_venues
       (video_01))
-   (base_points 506662))
+   (base_points 506662)
+   (downloaded TRUE))
 (ramblinman
    (name
       "Ramblin' Man")
@@ -3153,7 +3207,7 @@
       (guitar 422)
       (bass 459)
       (vocals 398)
-      (band 467))
+      (band 417))
    (genre southernrock)
    (decade the70s)
    (vocal_gender male)
@@ -3164,7 +3218,8 @@
    (album_name
       "Brothers and Sisters")
    (album_track_number 2)
-   (base_points 805615))
+   (base_points 805615)
+   (downloaded TRUE))
 (rebelgirl
    (name
       "Rebel Girl")
@@ -3203,7 +3258,7 @@
       (guitar 140)
       (bass 188)
       (vocals 166)
-      (band 137))
+      (band 152))
    (genre punk)
    (decade the90s)
    (vocal_gender female)
@@ -3216,7 +3271,8 @@
    (album_track_number 2)
    (video_venues
       (video_02))
-   (base_points 411954))
+   (base_points 411954)
+   (downloaded TRUE))
 (rocknme
    (name
       "Rock'n Me")
@@ -3257,7 +3313,7 @@
       (guitar 383)
       (bass 281)
       (vocals 242)
-      (band 314))
+      (band 267))
    (genre classicrock)
    (decade the70s)
    (year_released 1976)
@@ -3269,7 +3325,8 @@
    (album_name
       "Fly Like an Eagle")
    (album_track_number 2)
-   (base_points 476037))
+   (base_points 476037)
+   (downloaded TRUE))
 (roundandround
    (name
       "Round and Round")
@@ -3310,7 +3367,7 @@
       (guitar 348)
       (bass 159)
       (vocals 294)
-      (band 327))
+      (band 247))
    (genre glam)
    (decade the80s)
    (vocal_gender male)
@@ -3321,7 +3378,8 @@
    (album_name
       "Out of the Cellar")
    (album_track_number 3)
-   (base_points 572033))
+   (base_points 572033)
+   (downloaded TRUE))
 (shacklersrevenge
    (name
       "Shackler's Revenge")
@@ -3362,7 +3420,7 @@
       (guitar 405)
       (bass 330)
       (vocals 216)
-      (band 382))
+      (band 283))
    (genre rock)
    (decade the00s)
    (vocal_gender male)
@@ -3372,7 +3430,8 @@
    (year_released 2008)
    (album_name
       "Chinese Democracy")
-   (base_points 516222))
+   (base_points 516222)
+   (downloaded TRUE))
 (shootingstar
    (name
       "Shooting Star")
@@ -3413,7 +3472,7 @@
       (guitar 255)
       (bass 252)
       (vocals 176)
-      (band 245))
+      (band 204))
    (genre classicrock)
    (decade the70s)
    (vocal_gender male)
@@ -3424,7 +3483,8 @@
    (album_name
       "Straight Shooter")
    (album_track_number 4)
-   (base_points 668598))
+   (base_points 668598)
+   (downloaded TRUE))
 (soulsofblack
    (name
       "Souls of Black")
@@ -3464,7 +3524,7 @@
       (guitar 465)
       (bass 529)
       (vocals 339)
-      (band 493))
+      (band 432))
    (genre metal)
    (decade the90s)
    (vocal_gender male)
@@ -3475,7 +3535,8 @@
    (album_name
       "Souls of Black")
    (album_track_number 4)
-   (base_points 525569))
+   (base_points 525569)
+   (downloaded TRUE))
 (sowhatchawant
    (name
       "So What'cha Want")
@@ -3515,7 +3576,7 @@
       (guitar 144)
       (bass 106)
       (vocals 219)
-      (band 116))
+      (band 151))
    (genre hiphoprap)
    (decade the90s)
    (vocal_gender male)
@@ -3528,7 +3589,8 @@
    (album_track_number 7)
    (video_venues
       (video_01))
-   (base_points 449709))
+   (base_points 449709)
+   (downloaded TRUE))
 (spiritinthesky
    (name
       "Spirit in the Sky")
@@ -3569,7 +3631,7 @@
       (guitar 201)
       (bass 141)
       (vocals 128)
-      (band 189))
+      (band 156))
    (genre classicrock)
    (decade the60s)
    (vocal_gender male)
@@ -3580,7 +3642,8 @@
    (album_name
       "Spirit in the Sky")
    (album_track_number 2)
-   (base_points 454218))
+   (base_points 454218)
+   (downloaded TRUE))
 (spoonman
    (name
       "Spoonman")
@@ -3620,7 +3683,7 @@
       (guitar 392)
       (bass 400)
       (vocals 437)
-      (band 447))
+      (band 405))
    (genre grunge)
    (decade the90s)
    (vocal_gender male)
@@ -3633,7 +3696,8 @@
    (album_track_number 8)
    (video_venues
       (video_03))
-   (base_points 572239))
+   (base_points 572239)
+   (downloaded TRUE))
 (tangledupinblue
    (name
       "Tangled Up in Blue")
@@ -3673,7 +3737,7 @@
       (guitar 278)
       (bass 223)
       (vocals 450)
-      (band 318))
+      (band 269))
    (genre classicrock)
    (decade the70s)
    (vocal_gender male)
@@ -3684,7 +3748,8 @@
    (album_name
       "Blood on the Tracks")
    (track_number 1)
-   (base_points 844820))
+   (base_points 844820)
+   (downloaded TRUE))
 (teenageriot
    (name
       "Teen Age Riot")
@@ -3725,7 +3790,7 @@
       (guitar 370)
       (bass 287)
       (vocals 159)
-      (band 377))
+      (band 308))
    (genre alternative)
    (decade the80s)
    (vocal_gender male)
@@ -3736,7 +3801,8 @@
    (album_name
       "Daydream Nation")
    (album_track_number 1)
-   (base_points 1033182))
+   (base_points 1033182)
+   (downloaded TRUE))
 (testify
    (name
       "Testify")
@@ -3777,7 +3843,7 @@
       (guitar 335)
       (bass 361)
       (vocals 277)
-      (band 341))
+      (band 327))
    (genre alternative)
    (decade the90s)
    (vocal_gender male)
@@ -3790,7 +3856,8 @@
    (album_track_number 1)
    (video_venues
       (video_01))
-   (base_points 541125))
+   (base_points 541125)
+   (downloaded TRUE))
 (thatswhatyouget
    (name
       "That's What You Get")
@@ -3831,7 +3898,7 @@
       (guitar 136)
       (bass 112)
       (vocals 274)
-      (band 184))
+      (band 172))
    (genre poprock)
    (decade the00s)
    (vocal_gender female)
@@ -3844,7 +3911,8 @@
    (album_track_number 2)
    (video_venues
       (video_04))
-   (base_points 469327))
+   (base_points 469327)
+   (downloaded TRUE))
 (themiddle
    (name
       "The Middle")
@@ -3885,7 +3953,7 @@
       (guitar 291)
       (bass 245)
       (vocals 226)
-      (band 255))
+      (band 258))
    (genre poprock)
    (decade the00s)
    (year_released 2001)
@@ -3897,7 +3965,8 @@
    (album_name
       "Bleed American")
    (album_track_number 3)
-   (base_points 493156))
+   (base_points 493156)
+   (downloaded TRUE))
 (thetrees
    (name
       "The Trees (Vault Edition)")
@@ -3938,7 +4007,7 @@
       (guitar 375)
       (bass 387)
       (vocals 404)
-      (band 391))
+      (band 406))
    (genre prog)
    (decade the70s)
    (vocal_gender male)
@@ -3951,7 +4020,8 @@
    (album_track_number 3)
    (video_venues
       (theater_11))
-   (base_points 488063))
+   (base_points 488063)
+   (downloaded TRUE))
 (today
    (name
       "Today")
@@ -3993,7 +4063,7 @@
       (guitar 108)
       (bass 255)
       (vocals 152)
-      (band 179))
+      (band 174))
    (genre alternative)
    (decade the90s)
    (vocal_gender male)
@@ -4006,7 +4076,8 @@
    (album_track_number 3)
    (video_venues
       (video_02))
-   (base_points 421887))
+   (base_points 421887)
+   (downloaded TRUE))
 (uncontrollableurge
    (name
       "Uncontrollable Urge")
@@ -4047,7 +4118,7 @@
       (guitar 340)
       (bass 383)
       (vocals 385)
-      (band 359))
+      (band 353))
    (genre new_wave)
    (decade the70s)
    (vocal_gender male)
@@ -4058,7 +4129,8 @@
    (album_name
       "Devo Rock Band Re-Records")
    (album_track_number 1)
-   (base_points 505570))
+   (base_points 505570)
+   (downloaded TRUE))
 (wegotthebeat
    (name
       "We Got the Beat")
@@ -4100,7 +4172,7 @@
       (guitar 132)
       (bass 239)
       (vocals 138)
-      (band 195))
+      (band 177))
    (genre poprock)
    (decade the80s)
    (vocal_gender female)
@@ -4113,7 +4185,8 @@
    (album_track_number 6)
    (video_venues
       (video_02))
-   (base_points 362264))
+   (base_points 362264)
+   (downloaded TRUE))
 (wheredyougo
    (name
       "Where'd You Go?")
@@ -4154,7 +4227,7 @@
       (guitar 314)
       (bass 313)
       (vocals 162)
-      (band 305))
+      (band 241))
    (genre reggaeska)
    (decade the90s)
    (vocal_gender male)
@@ -4167,7 +4240,8 @@
    (album_track_number 1)
    (video_venues
       (big_club_06))
-   (base_points 497174))
+   (base_points 497174)
+   (downloaded TRUE))
 (whitewedding
    (name
       "White Wedding (Part 1)")
@@ -4208,7 +4282,7 @@
       (guitar 189)
       (bass 294)
       (vocals 346)
-      (band 223))
+      (band 247))
    (genre rock)
    (decade the80s)
    (vocal_gender male)
@@ -4221,7 +4295,8 @@
    (album_track_number 2)
    (video_venues
       (video_01))
-   (base_points 559728))
+   (base_points 559728)
+   (downloaded TRUE))
 (yououghtaknow
    (name
       "You Oughta Know")
@@ -4261,7 +4336,7 @@
       (guitar 237)
       (bass 378)
       (vocals 352)
-      (band 332))
+      (band 295))
    (genre alternative)
    (decade the90s)
    (vocal_gender female)
@@ -4272,7 +4347,8 @@
    (album_name
       "Jagged Little Pill")
    (album_track_number 2)
-   (base_points 569985))
+   (base_points 569985)
+   (downloaded TRUE))
 (ajaggedgorgeouswinter
    (name
       "A Jagged Gorgeous Winter")
@@ -4312,7 +4388,7 @@
       (guitar 223)
       (bass 258)
       (vocals 203)
-      (band 273))
+      (band 256))
    (genre indierock)
    (decade the00s)
    (vocal_gender male)
@@ -4323,7 +4399,8 @@
    (album_name
       "Yours As Fast As Mine")
    (album_track_number 3)
-   (base_points 493867))
+   (base_points 493867)
+   (downloaded TRUE))
 (conventionallover
    (name
       "Conventional Lover")
@@ -4363,7 +4440,7 @@
       (guitar 219)
       (bass 235)
       (vocals 193)
-      (band 236))
+      (band 210))
    (genre poprock)
    (decade the00s)
    (vocal_gender male)
@@ -4374,7 +4451,8 @@
    (album_name
       "Working as Intended")
    (album_track_number 1)
-   (base_points 639764))
+   (base_points 639764)
+   (downloaded TRUE))
 (getclean
    (name
       "Get Clean")
@@ -4414,7 +4492,7 @@
       (guitar 440)
       (bass 357)
       (vocals 320)
-      (band 473))
+      (band 366))
    (genre metal)
    (decade the00s)
    (vocal_gender male)
@@ -4427,7 +4505,8 @@
    (album_track_number 5)
    (video_venues
       (theater_11))
-   (base_points 461961))
+   (base_points 461961)
+   (downloaded TRUE))
 (nightlies
    (name
       "Night Lies")
@@ -4467,15 +4546,19 @@
       (guitar 353)
       (bass 322)
       (vocals 206)
-      (band 368))
+      (band 283))
    (genre rock)
    (decade the00s)
    (vocal_gender male)
    (format 3)
    (version 1)
    (album_art TRUE)
-   (year_released 2008)
-   (base_points 522882))
+   (year_released 2009)
+   (album_name
+      "Bang Camaro II")
+   (album_track_number 2)
+   (base_points 522882)
+   (downloaded TRUE))
 (robtheprezodent
    (name
       "Rob the Prez-O-Dent")
@@ -4515,7 +4598,7 @@
       (guitar 331)
       (bass 370)
       (vocals 265)
-      (band 440))
+      (band 337))
    (genre rock)
    (decade the00s)
    (vocal_gender male)
@@ -4526,7 +4609,8 @@
    (album_name
       "A City Dressed in Dynamite")
    (album_track_number 3)
-   (base_points 523872))
+   (base_points 523872)
+   (downloaded TRUE))
 (shouldertotheplow
    (name
       "Shoulder to the Plow")
@@ -4566,7 +4650,7 @@
       (guitar 431)
       (bass 448)
       (vocals 141)
-      (band 510))
+      (band 385))
    (genre metal)
    (decade the00s)
    (vocal_gender male)
@@ -4577,7 +4661,8 @@
    (album_name
       "Breaking Wheel")
    (album_track_number 5)
-   (base_points 701630))
+   (base_points 701630)
+   (downloaded TRUE))
 (supremegirl
    (name
       "Supreme Girl")
@@ -4617,7 +4702,7 @@
       (guitar 300)
       (bass 274)
       (vocals 258)
-      (band 345))
+      (band 289))
    (genre poprock)
    (decade the00s)
    (vocal_gender male)
@@ -4628,7 +4713,8 @@
    (album_name
       "Sinners Stick Together")
    (album_track_number 2)
-   (base_points 412837))
+   (base_points 412837)
+   (downloaded TRUE))
 (visions
    (name
       "Visions")
@@ -4668,7 +4754,7 @@
       (guitar 500)
       (bass 576)
       (vocals 155)
-      (band 530))
+      (band 440))
    (genre metal)
    (decade the00s)
    (vocal_gender female)
@@ -4679,7 +4765,8 @@
    (album_name
       "Abnormality Demo")
    (album_track_number 2)
-   (base_points 636937))
+   (base_points 636937)
+   (downloaded TRUE))
 (welcometothe
    (name
       "Welcome to the Neighborhood")
@@ -4719,7 +4806,7 @@
       (guitar 246)
       (bass 242)
       (vocals 245)
-      (band 218))
+      (band 253))
    (genre punk)
    (decade the00s)
    (vocal_gender female)
@@ -4730,7 +4817,8 @@
    (album_name
       "Welcome to the Neighborhood 7")
    (album_track_number 1)
-   (base_points 457754))
+   (base_points 457754)
+   (downloaded TRUE))
 #endif
 #ifndef MINIMAL_SONGS
 (drum_trainer_beats

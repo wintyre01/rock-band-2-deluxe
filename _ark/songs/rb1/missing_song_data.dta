@@ -788,7 +788,7 @@
       "Metallica")
    (album_track_number 1)
    (pack_name
-      "Rock Band Nightmare Songs")
+      "Rock Band Blistering Songs")
    (base_points 652848))
 (epic
    (version 1)
@@ -1608,7 +1608,7 @@
    (song_location 2)
    (year_released 1970)
    (pack_name
-      "Rock Band Challenging Songs")
+      "Rock Band Moderate Songs")
    (base_points 429453))
 (parasitelive
    (album_art TRUE))

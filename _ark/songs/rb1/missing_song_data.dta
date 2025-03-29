@@ -349,7 +349,7 @@
       "Ramones")
    (album_track_number 1)
    (pack_name
-      "Rock Band Solid Songs")
+      "Rock Band Apprentice Songs")
    (video_venues
       (small_club_03))
    (base_points 390784))
@@ -1034,12 +1034,12 @@
    (version 1)
    (format 3)
    (album_art TRUE)
-   (year_released 2003)
+   (year_released 2005)
    (album_name
       "Oh No")
    (album_track_number 3)
    (pack_name
-      "Rock Band Warmup Songs")
+      "Rock Band Apprentice Songs")
    (base_points 456106))
 (heroes
    (version 1)
@@ -1223,7 +1223,7 @@
       "Version 2.0")
    (album_track_number 2)
    (pack_name
-      "Rock Band Warmup Songs")
+      "Rock Band Apprentice Songs")
    (base_points 385845))
 (ithurts
    (version 1)
@@ -1410,7 +1410,7 @@
    (album_art FALSE)
    (year_released 1971)
    (pack_name
-      "Rock Band Warmup Songs")
+      "Rock Band Apprentice Songs")
    (base_points 252768))
 (moonagedaydream
    (version 1)
@@ -1873,7 +1873,7 @@
       "Weezer (The Blue Album)")
    (album_track_number 7)
    (pack_name
-      "Rock Band Warmup Songs")
+      "Rock Band Apprentice Songs")
    (base_points 344542))
 (screamingfor
    (version 1)
@@ -1938,7 +1938,7 @@
       "Combat Rock")
    (album_track_number 3)
    (pack_name
-      "Rock Band Warmup Songs")
+      "Rock Band Apprentice Songs")
    (video_venues
       (small_club_08))
    (base_points 381101))
@@ -2349,7 +2349,7 @@
       "Doolittle")
    (album_track_number 3)
    (pack_name
-      "Rock Band Warmup Songs")
+      "Rock Band Apprentice Songs")
    (video_venues
       (theater_05))
    (base_points 257486))

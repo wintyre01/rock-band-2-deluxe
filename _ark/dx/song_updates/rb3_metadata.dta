@@ -4747,7 +4747,7 @@
 (learntofly
    (song_id 24)
    (preview 45550 75550)
-   (song_length 238357)
+   (song_length 238358)
    (format 10)
    (version 1)
    (game_origin rb1_icon)
@@ -6079,7 +6079,7 @@
 (orangecrush
    (song_id 29)
    (preview 21250 51250)
-   (song_length 233456)
+   (song_length 233457)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -7064,11 +7064,11 @@
 (sabotage
    (song_id 33)
    (preview 68600 98600)
-   (song_length 180735)
+   (song_length 180737)
    (format 10)
    (version 1)
    (game_origin rb1_icon)
-   (rating 2)
+   (rating 3)
    (year_released 1994)
    ;(alternate_path TRUE)
    ;(extra_authoring disc_update)
@@ -8620,7 +8620,7 @@
 (thehandthatfeeds
    (song_id 37)
    (preview 21475 51475)
-   (song_length 226713)
+   (song_length 226714)
    (solo (guitar)
    )
    (format 10)

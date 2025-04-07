@@ -327,7 +327,7 @@
       "Superunknown")
    (album_track_number 7)
    (pack_name
-      "Rock Band Solid Songs")
+      "Rock Band Moderate Songs")
    (base_points 476620))
 (blindedbyfear
    (version 1)
@@ -794,12 +794,12 @@
    (version 1)
    (format 3)
    (album_art TRUE)
-   (year_released 1990)
+   (year_released 1989)
    (album_name
       "The Real Thing")
    (album_track_number 2)
    (pack_name
-      "Rock Band Skilled Songs")
+      "Rock Band Moderate Songs")
    (base_points 573852))
 (everfalleninlove
    (version 1)
@@ -908,7 +908,7 @@
       "Let It Bleed")
    (album_track_number 1)
    (pack_name
-      "Rock Band Warmup Songs")
+      "Rock Band Moderate Songs")
    (base_points 580418))
 (girlswhoplayguitars
    (version 1)
@@ -947,7 +947,7 @@
       "Songs for the Deaf")
    (album_track_number 8)
    (pack_name
-      "Rock Band Challenging Songs")
+      "Rock Band Moderate Songs")
    (base_points 508070))
 (greengrass_short
    (version 1)
@@ -1342,7 +1342,7 @@
       "Veni Vidi Vicious")
    (album_track_number 4)
    (pack_name
-      "Rock Band Solid Songs")
+      "Rock Band Moderate Songs")
    (base_points 316339))
 (manuchao
    (version 1)
@@ -1714,6 +1714,8 @@
    (album_name
       "Room on Fire")
    (album_track_number 2)
+   (pack_name
+      "Rock Band Moderate Songs")
    (base_points 540350))
 (ridethelightning
    (version 1)
@@ -2054,7 +2056,7 @@
       "The Rise and Fall of Ziggy Stardust and the Spiders From Mars")
    (album_track_number 10)
    (pack_name
-      "Rock Band Skilled Songs")
+      "Rock Band Moderate Songs")
    (base_points 606021))
 (sugarmagnolia
    (version 1)

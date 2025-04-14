@@ -471,7 +471,7 @@
    )
 (areyougonnabemygirl
    (song_id 1)
-   (song_length 215922)
+   (song_length 215923)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -1851,7 +1851,7 @@
 (danicalifornia
    (song_id 8)
    (preview 39450 69450)
-   (song_length 285873)
+   (song_length 285874)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -2197,14 +2197,14 @@
 (dontfearthereaper
    (song_id 11)
    (preview 29500 59500)
-   (song_length 322822)
+   (song_length 322823)
    (solo (guitar vocal_percussion)
    )
    (format 10)
    (version 1)
    (game_origin rb1_icon)
    (rating 1)
-   (year_released 1975)
+   (year_released 1976)
    ;(alternate_path TRUE)
    ;(extra_authoring disc_update)
    ;(album_art TRUE)
@@ -2429,7 +2429,7 @@
    )
 (electricversion
    (song_id 12)
-   (song_length 177377)
+   (song_length 177378)
    (format 10)
    (version 1)
    (game_origin rb1_icon)
@@ -9795,7 +9795,7 @@
    )
 (whenyouwereyoung
    (song_id 44)
-   (song_length 219884)
+   (song_length 219885)
    (solo (guitar)
    )
    (format 10)

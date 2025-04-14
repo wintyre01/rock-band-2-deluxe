@@ -259,7 +259,7 @@
       "Get Born")
    (album_track_number 2)
    (pack_name
-      "Rock Band Challenging Songs")
+      "Rock Band Skilled Songs")
    (base_points 451722))
 (attack
    (version 1)
@@ -632,7 +632,7 @@
       "Stadium Arcadium")
    (album_track_number 1)
    (pack_name
-      "Rock Band Challenging Songs")
+      "Rock Band Skilled Songs")
    (base_points 629843))
 (datewiththenight
    (version 1)
@@ -678,7 +678,7 @@
       "Destroyer")
    (album_track_number 1)
    (pack_name
-      "Rock Band Blistering Songs")
+      "Rock Band Skilled Songs")
    (base_points 448469))
 (devilschild
    (version 1)
@@ -731,12 +731,12 @@
    (version 1)
    (format 3)
    (album_art TRUE)
-   (year_released 1975)
+   (year_released 1976)
    (album_name
       "Agents of Fortune")
    (album_track_number 3)
    (pack_name
-      "Rock Band Blistering Songs")
+      "Rock Band Skilled Songs")
    (base_points 697635))
 (dontlookbackinanger
    (version 1)
@@ -767,7 +767,7 @@
       "Electric Version")
    (album_track_number 1)
    (pack_name
-      "Rock Band Blistering Songs")
+      "Rock Band Skilled Songs")
    (base_points 515034))
 (elscorcho
    (version 1)
@@ -2387,7 +2387,7 @@
       "Sam's Town")
    (album_track_number 3)
    (pack_name
-      "Rock Band Solid Songs")
+      "Rock Band Skilled Songs")
    (base_points 455156))
 (whydoyouloveme
    (version 1)

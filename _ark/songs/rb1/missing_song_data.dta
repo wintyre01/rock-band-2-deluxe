@@ -276,7 +276,7 @@
    (year_released 1975)
    (album_art FALSE)
    (pack_name
-      "Rock Band Skilled Songs")
+      "Rock Band Challenging Songs")
    (base_points 646287))
 (bangagong
    (version 1)
@@ -665,7 +665,7 @@
       "Take This to Your Grave")
    (album_track_number 2)
    (pack_name
-      "Rock Band Skilled Songs")
+      "Rock Band Challenging Songs")
    (base_points 606332))
 (deuce
    (album_art TRUE))
@@ -2298,7 +2298,7 @@
       "Purple")
    (album_track_number 2)
    (pack_name
-      "Rock Band Blistering Songs")
+      "Rock Band Challenging Songs")
    (base_points 384835))
 (volcano
    (version 1)

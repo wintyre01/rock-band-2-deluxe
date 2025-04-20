@@ -78,7 +78,7 @@
 		(sequence meta_people)
 		(min_delay_sec 10)
 		(max_delay_sec 20))
-	(play_from_memory TRUE))
+	(play_from_memory FALSE)) ; dx - stream metamusic from disk, vanilla true
 (fx
 	(chain FALSE)
 	(core_0

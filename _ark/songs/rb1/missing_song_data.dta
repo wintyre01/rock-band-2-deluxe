@@ -532,7 +532,7 @@
       "Siamese Dream")
    (album_track_number 1)
    (pack_name
-      "Rock Band Nightmare Songs")
+      "Rock Band Blistering Songs")
    (base_points 600278))
 (chinacatsunflower
    (version 1)
@@ -1524,7 +1524,7 @@
       "Outlandos d'Amour")
    (album_track_number 1)
    (pack_name
-      "Rock Band Nightmare Songs")
+      "Rock Band Blistering Songs")
    (base_points 506009))
 (nib
    (version 1)
@@ -2238,7 +2238,7 @@
    (album_art FALSE)
    (year_released 1974)
    (pack_name
-      "Rock Band Skilled Songs")
+      "Rock Band Blistering Songs")
    (base_points 721230))
 (trainkeptarollin
    (version 1)
@@ -2246,7 +2246,7 @@
    (album_art FALSE)
    (year_released 1974)
    (pack_name
-      "Rock Band Skilled Songs")
+      "Rock Band Blistering Songs")
    (base_points 721230))
 (thetrooper
    (album_name
@@ -2374,9 +2374,9 @@
    (song_location 2)
    (album_name
       "Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness")
-   (album_track_number 11)
+   (album_track_number 3)
    (pack_name
-      "Rock Band Challenging Songs")
+      "Rock Band Blistering Songs")
    (base_points 787747))
 (whenyouwereyoung
    (version 1)
@@ -2443,6 +2443,14 @@
    (album_art FALSE)
    (year_released 1974)
    (base_points 852613))
+(worstcase
+   (version 1)
+   (format 3)
+   (album_art FALSE)
+   (year_released 1971)
+   (pack_name
+      "Rock Band Bonus Tracks")
+   (base_points 341144))
 (youdonthavetobeoldlive
    (name
       "You Don't Have To Be Old To Be Wise (Live)"))

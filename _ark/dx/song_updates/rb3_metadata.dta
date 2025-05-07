@@ -2791,7 +2791,7 @@
    )
 (flirtinwithdisaster
    (song_id 15)
-   (song_length 302104)
+   (song_length 302105)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -2832,7 +2832,7 @@
 (foreplaylongtime
    (song_id 16)
    (preview 167399 197399)
-   (song_length 498027)
+   (song_length 498028)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -3290,7 +3290,7 @@
 (greengrass
    (song_id 19)
    (preview 95450 125450)
-   (song_length 592904)
+   (song_length 592905)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -3729,7 +3729,7 @@
 (highwaystar
    (song_id 21)
    (preview 36850 66850)
-   (song_length 369375)
+   (song_length 369376)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -9094,7 +9094,7 @@
 (tomsawyer
    (song_id 38)
    (preview 197600 227600)
-   (song_length 292174)
+   (song_length 292175)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -9998,7 +9998,7 @@
 (wontgetfooled
    (song_id 45)
    (preview 75750 105750)
-   (song_length 515119)
+   (song_length 515120)
    (solo (guitar vocal_percussion)
    )
    (format 10)

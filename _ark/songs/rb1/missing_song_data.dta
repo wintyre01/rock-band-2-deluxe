@@ -844,10 +844,10 @@
    (album_art TRUE)
    (year_released 1979)
    (album_name
-      "Flirtin' With Disaster")
+      "Flirtin' with Disaster")
    (album_track_number 6)
    (pack_name
-      "Rock Band Impossible Songs")
+      "Rock Band Nightmare Songs")
    (base_points 716050))
 (foreplaylongtime_short
    (version 1)
@@ -858,7 +858,7 @@
       "Boston")
    (album_track_number 3)
    (pack_name
-      "Rock Band Impossible Songs")
+      "Rock Band Nightmare Songs")
    (video_venues
       (theater_05))
    (base_points 796829))
@@ -871,7 +871,7 @@
       "Boston")
    (album_track_number 3)
    (pack_name
-      "Rock Band Impossible Songs")
+      "Rock Band Nightmare Songs")
    (video_venues
       (theater_05))
    (base_points 796829))
@@ -1064,7 +1064,7 @@
       "Machine Head")
    (album_track_number 1)
    (pack_name
-      "Rock Band Impossible Songs")
+      "Rock Band Nightmare Songs")
    (base_points 893424))
 (hitcharide
    (version 1)
@@ -2420,7 +2420,7 @@
       "Who's Next")
    (album_track_number 9)
    (pack_name
-      "Rock Band Impossible Songs")
+      "Rock Band Nightmare Songs")
    (video_venues
       (arena_06))
    (base_points 904588))
@@ -2433,7 +2433,7 @@
       "Who's Next")
    (album_track_number 9)
    (pack_name
-      "Rock Band Impossible Songs")
+      "Rock Band Nightmare Songs")
    (video_venues
       (arena_06))
    (base_points 904588))

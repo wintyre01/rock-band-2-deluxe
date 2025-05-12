@@ -10058,7 +10058,7 @@
    )
 (worstcase
    (song_id 2130151754)
-   (song_length 236915)
+   (song_length 226195)
    (solo (vocal_percussion)
    )
    (format 10)
@@ -10069,6 +10069,7 @@
    ;(alternate_path TRUE)
    ;(extra_authoring disc_update)
    ;(album_art FALSE)
+   (encoding latin1)
    )
 (would
    (song_length 222272)

@@ -459,10 +459,10 @@
    (version 1)
    (format 3)
    (album_art TRUE)
-   (year_released 2007)
+   (year_released 2010)
    (album_name
-      "Can't Let Go")
-   (album_track_number 1)
+      "The Miles Davis EP")
+   (album_track_number 4)
    (pack_name
       "Harmonix Rock Band Tracks")
    (base_points 443687))
@@ -651,7 +651,7 @@
    (album_art TRUE)
    (year_released 2006)
    (album_name
-      "Go Down Swinging")
+      "...Go Down Swinging!")
    (album_track_number 1)
    (pack_name
       "Harmonix Rock Band Tracks")
@@ -1113,7 +1113,7 @@
    (format 3)
    (album_art TRUE)
    (genre indierock)
-   (year_released 2007)
+   (year_released 2005)
    (album_name
       "Second & Eighteen")
    (album_track_number 16)
@@ -1539,10 +1539,10 @@
    (format 3)
    (album_art TRUE)
    (genre rock)
-   (year_released 2008)
+   (year_released 2009)
    (album_name
-      "Adrenaline")
-   (album_track_number 9)
+      "Crooked X")
+   (album_track_number 8)
    (pack_name
       "Rock Band Bonus Tracks")
    (base_points 449730))
@@ -1586,9 +1586,9 @@
    (version 1)
    (format 3)
    (album_art TRUE)
-   (year_released 1989)
+   (year_released 1990)
    (album_name
-      "Here at Home")
+      "Here at the Home")
    (album_track_number 6)
    (pack_name
       "Harmonix Rock Band Tracks")
@@ -1893,7 +1893,7 @@
    (year_released 2007)
    (album_name
       "Public Display of Infection")
-   (album_track_number 6)
+   (album_track_number 7)
    (pack_name
       "Harmonix Rock Band Tracks")
    (base_points 800488))
@@ -2208,7 +2208,7 @@
    (year_released 2000)
    (genre novelty)
    (album_name
-      "Timmy & The Lords of the Underworld")
+      "Timmy & the Lords of the Underworld")
    (album_track_number 1)
    (pack_name
       "Rock Band Bonus Tracks")

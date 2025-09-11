@@ -83,7 +83,7 @@
    )
 (3sand7s
    (song_id 1005009)
-   (song_length 220000)
+   (song_length 228011)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -396,7 +396,7 @@
 (andjusticeforall
    (song_id 1005015)
    (preview 156300 186300)
-   (song_length 591818)
+   (song_length 591219)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -630,7 +630,7 @@
 (bangagong
    (song_id 1005006)
    (preview 30000 60000)
-   (song_length 275909)
+   (song_length 274849)
    (solo (guitar)
    )
    (format 10)
@@ -785,7 +785,7 @@
 (blackened
    (song_id 1005014)
    (preview 102700 132700)
-   (song_length 401363)
+   (song_length 401925)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -1305,7 +1305,7 @@
 (cantstandlosingyou
    (song_id 1005012)
    (preview 24750 54750)
-   (song_length 180909)
+   (song_length 181752)
    (format 10)
    (version 1)
    (game_origin rb1_dlc)
@@ -1433,7 +1433,7 @@
    )
 (cherrybomb
    (song_id 1005005)
-   (song_length 141818)
+   (song_length 141831)
    (solo (guitar)
    )
    (format 10)
@@ -2866,7 +2866,7 @@
    )
 (fortunateson
    (song_id 1005004)
-   (song_length 145000)
+   (song_length 142710)
    (format 10)
    (version 1)
    (game_origin rb1_dlc)
@@ -4486,7 +4486,7 @@
    )
 (jokerandthe
    (song_id 1005003)
-   (song_length 285454)
+   (song_length 282388)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -4503,7 +4503,7 @@
 (jukeboxhero
    (song_id 1005002)
    (preview 68800 98800)
-   (song_length 268636)
+   (song_length 266026)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -4946,7 +4946,7 @@
    )
 (littlesister
    (song_id 1005008)
-   (song_length 178181)
+   (song_length 176585)
    (solo (guitar)
    )
    (format 10)
@@ -5704,7 +5704,7 @@
    )
 (mysharona
    (song_id 1005001)
-   (song_length 300909)
+   (song_length 295778)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -6727,7 +6727,7 @@
    )
 (ridethelightning
    (song_id 1005013)
-   (song_length 400454)
+   (song_length 400881)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -6960,7 +6960,7 @@
 (roxanne
    (song_id 1005011)
    (preview 50300 80300)
-   (song_length 179090)
+   (song_length 180540)
    (format 10)
    (version 1)
    (game_origin rb1_dlc)
@@ -7509,7 +7509,7 @@
 (sicksicksick
    (song_id 1005007)
    (preview 42000 72000)
-   (song_length 222727)
+   (song_length 221475)
    (format 10)
    (version 1)
    (game_origin rb1_dlc)
@@ -8263,7 +8263,7 @@
 (synchronicity2
    (song_id 1005010)
    (preview 47700 77700)
-   (song_length 288181)
+   (song_length 286573)
    (solo (guitar vocal_percussion)
    )
    (format 10)

@@ -5838,7 +5838,7 @@
    )
 (nib
    (song_id 1005021)
-   (song_length 325909)
+   (song_length 326676)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -8213,7 +8213,7 @@
 (sweetleaf
    (song_id 1005020)
    (preview 23000 53000)
-   (song_length 304545)
+   (song_length 304220)
    (solo (guitar vocal_percussion)
    )
    (format 10)
@@ -9601,7 +9601,7 @@
    )
 (warpigs
    (song_id 1005019)
-   (song_length 483636)
+   (song_length 480907)
    (solo (guitar vocal_percussion)
    )
    (format 10)

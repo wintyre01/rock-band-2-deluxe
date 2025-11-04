@@ -360,8 +360,6 @@
    "Custom Songs")
 (lego
    "LEGO Rock Band")
-(rb1_icon
-   "Rock Band 1")
 (rb3_icon
    "Rock Band 3")
 (rb4_icon
@@ -1094,6 +1092,10 @@
 (os_postproc "Post Processing")
 (os_postfx "Toggle Post FX")
 (os_cam "Camera & Audio")
+(os_postfx1 "Post Processing Effects: OFF")
+(os_postfx0 "Post Processing Effects: ON")
+(os_noise1 "Film Grain: OFF")
+(os_noise0 "Film Grain: ON")
 (os_cycam "Cycle Camera")
 (os_gtrfx "Cycle Guitar FX")
 (os_whammyfx1 "Whammy FX: ON")
@@ -1119,6 +1121,8 @@
 (os_trkresetmsg "This will reset everything used to set custom textures. If you do this after being in-game, it will do nothing.\nAre you sure?")
 (os_gemdiv1 "Gem Dividers: ON")
 (os_gemdiv0 "Gem Dividers: OFF")
+(os_countdowns1 "Break Countdowns: ON")
+(os_countdowns0 "Break Countdowns: OFF")
 (os_smasherbracket1 "Strikeline Bracket: OFF")
 (os_smasherbracket0 "Strikeline Bracket: ON")
 (os_hwalpha_rb3 "Highway Transparency: RB3")
@@ -1201,6 +1205,8 @@
 (h_band_hero "Band Hero")
 
 ;; Modifiers
+(mod_synced_track_speeds "Sync Difficulty Speeds")
+(mod_synced_track_speeds_desc "All tracks will run at Expert speed regardless of difficulty")
 (mod_awesome_desc "Let MiloHax know that you are really awesome!")
 #ifdef HX_XBOX
 (mod_selectdeploy "BACK Button to Deploy")

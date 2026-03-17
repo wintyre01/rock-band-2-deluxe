@@ -3,6 +3,7 @@
 #include dx_funcs.dta
 #ifndef HX_EE
 #include ../countdown/dx_countdown_ui_init.dta
+#include ../char/dx_add_instruments.dta
 #endif
 
 {set $dx_connected_server none}
@@ -94,7 +95,7 @@
 {set $solobox "rb2"}
 
 ;stars texture
-{set $stars "rb4"}
+{set $stars "rb2dx"}
 
 ;score font texture
 {set $font "rb2"}

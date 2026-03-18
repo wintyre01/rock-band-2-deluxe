@@ -806,6 +806,8 @@
    (format 3)
    (year_released 1978)
    (album_art FALSE)
+   (pack_name
+      "Punk Pack 01")
    (base_points 497498))
 (excusememr
    (alternate_path
@@ -1096,7 +1098,7 @@
    (version 1)
    (format 3)
    (album_art TRUE)
-   (year_released 1977)
+   (year_released 1979)
    (album_name
       "The Clash")
    (album_track_number 8)

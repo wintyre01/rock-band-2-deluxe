@@ -73,8 +73,10 @@
 (viper "Dance Central Spotlight")
 
 ; Rock Band games
-(dlc "Rock Band 1/2 DLC")
-(rb1_dlc "Rock Band 1/2 DLC")
+(rb1dlc "Rock Band DLC")
+(rb2dlc "Rock Band 2 DLC")
+(rb1wii "Rock Band Wii")
+(rb1eu "Rock Band EU")
 (ugc1 "Rock Band Network 1.0")
 (rbtp_vol_1 "Track Pack: Volume 1")
 (rbtp_acdc "Track Pack: AC/DC Live")
@@ -97,6 +99,7 @@
 (rb4_dlc "Rock Band 4 DLC")
 (rbvr "Rock Band VR")
 (rb4_rivals "Rock Band Rivals")
+(lost_dlc "Lost Rock Band DLC")
 
 ; Third-Party games
 (gd "GITADORA")
@@ -1153,7 +1156,7 @@
 (rb4_true "RB4 (True Port)")
 (rb4_3p "RB4 (3 Player)")
 (rb4_new "RB4 Alt")
-(rb2dx "Rock Band 2 DX")
+(rb2dx "Rock Band 2 Deluxe")
 (lrb "LEGO Rock Band")
 (tbrb "Beatles Rock Band")
 (rb2_bass "RB2 Bass")

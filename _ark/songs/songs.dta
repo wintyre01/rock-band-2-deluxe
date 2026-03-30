@@ -44,6 +44,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name
@@ -98,6 +99,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1980)
    (album_art TRUE)
    (album_name
@@ -151,6 +153,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1987)
    (album_name
@@ -204,6 +207,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1991)
    (album_name
@@ -259,6 +263,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2007)
    (album_name
@@ -312,6 +317,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1970)
    (album_art TRUE)
    (album_name
@@ -365,6 +371,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1980)
    (album_art TRUE)
    (album_name
@@ -419,6 +426,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1971)
    (album_art TRUE)
    (album_name
@@ -471,6 +479,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1980)
    (album_name
@@ -525,6 +534,7 @@
    (vocal_gender male)
    (format 3)
    (version 1)
+   (game_origin rb2dx)
    (year_released 1986)
    (album_art TRUE)
    (album_name
@@ -578,6 +588,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1973)
    (album_name
@@ -632,6 +643,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1976)
    (album_name
@@ -685,6 +697,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2001)
    (album_name
@@ -1066,6 +1079,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2006)
    (album_name
@@ -1120,6 +1134,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1994)
    (album_name
@@ -1173,6 +1188,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1979)
    (album_name
@@ -1227,6 +1243,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1990)
    (album_art TRUE)
    (album_name
@@ -1282,6 +1299,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2000)
    (album_name
@@ -1335,6 +1353,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1991)
    (album_art TRUE)
    (album_name
@@ -1391,6 +1410,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2005)
    (album_name
@@ -1447,6 +1467,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1997)
    (album_art TRUE)
    (album_name
@@ -1502,6 +1523,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1982)
    (album_art TRUE)
    (album_name
@@ -1554,6 +1576,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1994)
    (album_art TRUE)
    (album_name
@@ -1607,6 +1630,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2004)
    (album_name
@@ -1660,6 +1684,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2003)
    (album_name
@@ -1713,6 +1738,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2004)
    (album_name
@@ -1765,6 +1791,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1991)
    (album_name
@@ -1819,6 +1846,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1977)
    (album_art TRUE)
    (album_name
@@ -1873,6 +1901,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (album_name
       "In Color (Unreleased Steve Albini Version)")
@@ -1927,6 +1956,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1982)
    (album_art TRUE)
    (album_name
@@ -1982,6 +2012,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 2007)
    (album_art TRUE)
    (album_name
@@ -2035,6 +2066,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1995)
    (album_name
@@ -2090,6 +2122,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2006)
    (album_name
@@ -2144,6 +2177,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1977)
    (album_name
@@ -2197,6 +2231,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1986)
    (album_art TRUE)
    (album_name
@@ -2250,6 +2285,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1995)
    (album_name
@@ -2305,6 +2341,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1990)
    (album_name
@@ -2357,6 +2394,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2006)
    (album_name
@@ -2410,6 +2448,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1988)
    (album_art TRUE)
    (album_name
@@ -2465,6 +2504,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1999)
    (album_name
@@ -2518,6 +2558,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 2007)
    (album_art TRUE)
    (album_name
@@ -2570,6 +2611,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name
@@ -2622,6 +2664,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2000)
    (album_name
@@ -2675,6 +2718,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1978)
    (album_art TRUE)
    (album_name
@@ -2727,6 +2771,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2006)
    (album_name
@@ -2781,6 +2826,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1990)
    (album_name
@@ -2833,6 +2879,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2005)
    (album_name
@@ -2885,6 +2932,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2002)
    (album_name
@@ -2937,6 +2985,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1985)
    (album_name
@@ -2991,6 +3040,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1969)
    (album_art TRUE)
    (album_name
@@ -3046,6 +3096,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1992)
    (album_art TRUE)
    (album_name
@@ -3102,6 +3153,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1977)
    (album_art TRUE)
    (album_name
@@ -3157,6 +3209,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1978)
    (album_name
@@ -3213,6 +3266,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1973)
    (album_art TRUE)
    (album_name
@@ -3264,6 +3318,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1993)
    (album_art TRUE)
    (album_name
@@ -3320,6 +3375,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1976)
    (album_art TRUE)
    (album_name
@@ -3373,6 +3429,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1984)
    (album_art TRUE)
    (album_name
@@ -3426,6 +3483,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name
@@ -3478,6 +3536,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1975)
    (album_name
@@ -3530,6 +3589,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1990)
    (album_art TRUE)
    (album_name
@@ -3582,6 +3642,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1992)
    (album_name
@@ -3637,6 +3698,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1969)
    (album_art TRUE)
    (album_name
@@ -3689,6 +3751,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1994)
    (album_art TRUE)
    (album_name
@@ -3743,6 +3806,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1975)
    (album_name
@@ -3796,6 +3860,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1988)
    (album_art TRUE)
    (album_name
@@ -3849,6 +3914,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1999)
    (album_art TRUE)
    (album_name
@@ -3904,6 +3970,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2007)
    (album_name
@@ -3960,6 +4027,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2001)
    (album_name
@@ -4013,6 +4081,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1978)
    (album_art TRUE)
    (album_name
@@ -4069,6 +4138,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 1993)
    (album_art TRUE)
    (album_name
@@ -4124,6 +4194,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 2008)
    (album_art TRUE)
    (album_name
@@ -4178,6 +4249,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1981)
    (album_name
@@ -4233,6 +4305,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name
@@ -4288,6 +4361,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1982)
    (album_name
@@ -4342,6 +4416,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 1995)
    (album_name
@@ -4394,6 +4469,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name
@@ -4446,6 +4522,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2007)
    (album_name
@@ -4498,6 +4575,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (year_released 2009)
    (album_art TRUE)
    (album_name
@@ -4552,6 +4630,7 @@
    (vocal_gender male)
    (format 3)
    (version 1)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2009)
    (album_name
@@ -4604,6 +4683,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name
@@ -4656,6 +4736,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name
@@ -4708,6 +4789,7 @@
    (vocal_gender male)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2006)
    (album_name
@@ -4760,6 +4842,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2007)
    (album_name
@@ -4812,6 +4895,7 @@
    (vocal_gender female)
    (version 1)
    (format 3)
+   (game_origin rb2dx)
    (album_art TRUE)
    (year_released 2008)
    (album_name

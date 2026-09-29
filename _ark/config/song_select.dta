@@ -210,23 +210,12 @@
                }
             )
             ({&& {! {$lhs has_data game_origin}} {! {$rhs has_data game_origin}}}
-               {if_else {== {$lhs get_icon} {$rhs get_icon}}
-                  ; sort songs in icon alphabetically by title
-                  {$this
-                     cmp
-                     $lhs
-                     $rhs
-                     (kSTName)
-                  }
-                  {do
-                     {$this
-                        cmp
-                        $lhs
-                        $rhs
-                        (kSTOrigin)
-                        (kSTName)
-                     }
-                  }
+               {$this
+                  cmp
+                  $lhs
+                  $rhs
+                  (kSTOrigin)
+                  (kSTName)
                }
             )
          }

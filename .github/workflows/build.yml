@@ -69,9 +69,6 @@ jobs:
           pip install gitpython
           pip install mido
           pip install requests
-      - name: fetch TrueAncestor PKG Repacker
-        run: |
-          python dependencies/dev_scripts/download_ta_pkg_repacker.py
       - name: Remove Xbox/PS2 files
         run: |
           Get-ChildItem _ark/ -recurse -include *.*_xbox | remove-item
@@ -82,10 +79,8 @@ jobs:
       - name: Build PKG
         run: |
           $sha_short="$(git rev-parse --short HEAD)".ToUpper()
-          $content="UP0006-BLUS30147_00-RB2DXNITE"
-          $packageversion="2.00"
-          dependencies/ta_pkg_repacker_tools/make_package_npdrm_retail.exe --k-licensee 0x00000000000000000000000000000000 --drm-type Local --package-version $packageversion --content-type GameData --content-id ($content + $sha_short) dependencies/ta_pkg_repacker_tools/package.conf _build/ps3
-
+          $content="RB2DXNITE"
+          dependencies/windows/RB2DXBuildPkgPS3.exe _build/ps3 ($content + $sha_short) .
       - name: Upload result
         uses: actions/upload-artifact@v4
         with:
